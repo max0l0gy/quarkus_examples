@@ -1,0 +1,8 @@
+package cloud.max0l0gy.statefull.msvc.entity;
+
+public interface Constants {
+
+    String ID_GENERATOR_COMMODITY_PASSPORT = "ID_GENERATOR_COMMODITY_PASSPORT";
+    String ID_GENERATOR_COMMODITY_PASSPORT_SEQUENCE_NAME = "RES_SEQUENCE_COMMODITY_PASSPORT";
+
+}
